@@ -1,4 +1,4 @@
-# MPC Planner
+# MPC Planner for Dataset Generation
 
 Deploy and visualize the trajectory planner in paper "[Rapid and Safe Trajectory Planning over Diverse Scenes through Diffusion Composition](https://arxiv.org/abs/2507.04384)".
 
