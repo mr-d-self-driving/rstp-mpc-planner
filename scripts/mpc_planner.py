@@ -36,7 +36,7 @@ def start_processes(mode, sim, subseq):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='local_planner')
     parser.add_argument('--map_name', type=str, default='map414diffuser')
-    parser.add_argument('--ritp_filename', type=str, default='randSddrx-414test-static-v2-light')
+    parser.add_argument('--ritp_filename', type=str, default='randSddrx-414test-static-v2-dense-light')
     parser.add_argument('--mode', type=str, default='static')
     parser.add_argument('--parallel_num', type=int, default='12')
     args = parser.parse_args()
